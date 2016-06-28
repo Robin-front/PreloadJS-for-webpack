@@ -1,0 +1,25 @@
+{
+  "name": "preload-js",
+  "version": "0.6.3",
+  "description": "PreloadJS for webpack, PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not. http://createjs.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreateJS/PreloadJS.git"
+  },
+  "keywords": [
+    "preload",
+    "preloadjs",
+    "webpack",
+    "createjs"
+  ],
+  "author": "robins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreateJS/PreloadJS/issues"
+  },
+  "homepage": "https://github.com/CreateJS/PreloadJS#readme"
+}
