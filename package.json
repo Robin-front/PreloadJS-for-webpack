@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CreateJS/PreloadJS.git"
+    "url": "git+https://github.com/Robin-front/PreloadJS-for-webpack.git"
   },
   "keywords": [
     "preload",
@@ -19,7 +19,7 @@
   "author": "robins",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CreateJS/PreloadJS/issues"
+    "url": "https://github.com/Robin-front/PreloadJS-for-webpack/issues"
   },
-  "homepage": "https://github.com/CreateJS/PreloadJS#readme"
+  "homepage": "https://github.com/Robin-front/PreloadJS-for-webpack#readme"
 }
