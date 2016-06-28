@@ -1,4 +1,3 @@
-# accepts
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -9,6 +8,8 @@
 PreloadJS makes preloading assets &amp; getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not. [http://createjs.com/](http://createjs.com/)
 
 ## Installation
+
+[![preload](https://nodei.co/npm/preload.png?mini=true)](https://nodei.co/npm/preload)
 
 ```sh
 npm install preload-js --save
