@@ -5,11 +5,14 @@
 
 ## PreloadJS for webpack
 
+[![preload-js](https://nodei.co/npm-dl/nan.png?months=3&height=3)](https://nodei.co/npm/preload-js)
+
+
 PreloadJS makes preloading assets &amp; getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not. [http://createjs.com/](http://createjs.com/)
 
 ## Installation
 
-[![preload-js](https://nodei.co/npm/preload-js.png?mini=true)](https://nodei.co/npm/preload-js)
+[![preload-js](https://nodei.co/npm/preload-js.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/preload-js)
 
 ```sh
 npm install preload-js --save
@@ -24,7 +27,7 @@ var createjs = require('preload-js')
 ## ES6
 
 ```js
-import 'createjs' from 'preload-js'
+import createjs from 'preload-js'
 ```
 
 ## License
