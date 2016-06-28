@@ -9,7 +9,7 @@ PreloadJS makes preloading assets &amp; getting aggregate progress events easier
 
 ## Installation
 
-[![preload](https://nodei.co/npm/preload.png?mini=true)](https://nodei.co/npm/preload)
+[![preload-js](https://nodei.co/npm/preload-js.png?mini=true)](https://nodei.co/npm/preload-js)
 
 ```sh
 npm install preload-js --save
